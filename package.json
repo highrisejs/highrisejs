@@ -1,6 +1,6 @@
 {
   "name": "highrisejs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The main api package included within a highrise project.",
   "main": "lib/index.js",
   "dependencies": {
