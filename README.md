@@ -1,4 +1,8 @@
-# highrisejs - digger
+# highrisejs
 
-The cli to start a new highrise project.  Currently it does nothing
-but cloning the starterkit project.
+The main API package to interact with highrisejs.
+
+## API description coming soon
+
+I'm currently evaluating future techniques for error handling to
+introduce to highrisejs.
