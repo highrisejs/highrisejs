@@ -1,16 +1,10 @@
 {
   "name": "highrisejs",
   "version": "0.1.0",
-  "bin": {
-    "highrisejs": "./bin/digger.js"
-  },
-  "description": "The cli to start a new highrise project.",
+  "description": "The main api package included within a highrise project.",
   "main": "lib/index.js",
   "dependencies": {
-    "colors": "^1.0.3",
-    "express": "^4.12.3",
-    "minimist": "^1.1.1",
-    "shelljs": "^0.4.0"
+    "express": "^4.12.3"
   },
   "devDependencies": {
     "coffee-script": "^1.9.1",
